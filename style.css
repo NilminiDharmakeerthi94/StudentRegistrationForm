@@ -1,0 +1,13 @@
+body{
+	background-image: url(p1.jpg);
+    
+}
+.input_group{
+border-style: outset;
+}
+
+
+.input_group2{
+	text-align: center;
+	font-style: bold;
+}
